@@ -3,7 +3,9 @@ This project analyzes Amazon sales data to uncover trends, patterns, and insight
 
 # 🔍 Features
 Data Cleaning & Preprocessing: Handle missing values, outliers, and data inconsistencies.
+
 Exploratory Data Analysis (EDA): Visualizations and statistical insights.
+
 Sales Trends & Forecasting: Identify seasonal trends and predict future sales.
 Customer & Product Insights: Analyze best-selling products, customer purchase patterns, and ratings.
 Data Visualization: Generate interactive reports using tools like Matplotlib, Seaborn, or Plotly.
